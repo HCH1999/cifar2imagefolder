@@ -1,0 +1,8 @@
+*.tar.gz
+cifar-10-batches-py/
+cifar-100-python/
+cifar10/
+cifar100/
+fashion-mnist/
+FashionMNIST/
+fmnist/
